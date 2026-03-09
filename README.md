@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Acelake123/Forage_Quantium_Data_Analytics/blob/30935ea965c3572613d088a929ce11cbac980446/Forage.PNG?raw=True" alt="Forage" height="80px" />
+<img src="https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Forage.PNG?raw=True" alt="Forage" height="80px" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Acelake123/Forage_Quantium_Data_Analytics/blob/30935ea965c3572613d088a929ce11cbac980446/Quantium%20Logo.PNG?raw=true" alt="Quantium" height="80px"/>
+<img src="https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Quantium%20Logo.PNG?raw=true" alt="Quantium" height="80px"/>
 
 <br/>
 
