@@ -16,7 +16,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
-[![Status](https://img.shields.io/badge/Status-Completed%20✓-brightgreen?style=for-the-badge)](https://github.com/Acelake123/Forage_Quantium_Data_Analytics)
 
 <br/>
 
@@ -73,7 +72,7 @@ Dived deep into Quantium's retail transaction dataset to uncover **who** is buyi
 | Deliverable | Link |
 |---|---|
 | 📓 Python Jupyter Notebook | [**Open in nbviewer →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Task%201_%20Data%20Preparation%20and%20Customer%20Analytics/Forage%20Quantium%20Data%20Analytics%20Job%20Sim%20Task%201%20-%20Data%20Preparation%20and%20Customer%20Analytics.ipynb) |
-| 📊 Power BI Analysis PDF | [**View Report →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Task%201_%20Data%20Preparation%20and%20Customer%20Analytics/Forage%20Quantium%20Data%20Analytics%20Job%20Sim%20Task%201%20-%20Data%20Preparation%20and%20Customer%20Analytics.pdf) |
+| 📊 Power BI Analysis PDF | [**View Report →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Task%201_%20Data%20Preparation%20and%20Customer%20Analytics/Forage%20Quantium%20Data%20Analytics%20Task%201%20Customer%20Analytics.pdf) |
 
 <br/>
 
