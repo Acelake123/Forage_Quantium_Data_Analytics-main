@@ -72,8 +72,8 @@ Dived deep into Quantium's retail transaction dataset to uncover **who** is buyi
 
 | Deliverable | Link |
 |---|---|
-| 📓 Python Jupyter Notebook | [**Open in nbviewer →**](https://nbviewer.org/github/Acelake123/Forage_Quantium_Data_Analytics/blob/ee71f7ff705a22e69506db29ab82bd80900b06d9/Task%201%3A%20Data%20Preparation%20and%20Customer%20Analytics/Forage%20Quantium%20Data%20Analytics%20Job%20Sim%20Task%201%20-%20Data%20Preparation%20and%20Customer%20Analytics.ipynb) |
-| 📊 Power BI Analysis PDF | [**View Report →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics/blob/30935ea965c3572613d088a929ce11cbac980446/Task%201%3A%20Data%20Preparation%20and%20Customer%20Analytics/Forage%20Quantium%20Data%20Analytics%20Task%201%20Customer%20Analytics.pdf) |
+| 📓 Python Jupyter Notebook | [**Open in nbviewer →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Task%201_%20Data%20Preparation%20and%20Customer%20Analytics/Forage%20Quantium%20Data%20Analytics%20Job%20Sim%20Task%201%20-%20Data%20Preparation%20and%20Customer%20Analytics.ipynb) |
+| 📊 Power BI Analysis PDF | [**View Report →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Task%201_%20Data%20Preparation%20and%20Customer%20Analytics/Forage%20Quantium%20Data%20Analytics%20Job%20Sim%20Task%201%20-%20Data%20Preparation%20and%20Customer%20Analytics.pdf) |
 
 <br/>
 
@@ -93,7 +93,7 @@ Applied **control store methodology** to evaluate the performance of trial store
 
 | Deliverable | Link |
 |---|---|
-| 📓 Python Jupyter Notebook | [**Open in nbviewer →**](https://nbviewer.org/github/Acelake123/Forage_Quantium_Data_Analytics/blob/ee97ee8cf19a8827dcfcd80839edd54a3af5ca01/Task%202%20%3A%20Experimenting%20and%20Uplift%20Testing/Forage%20Quantium%20Data%20Analytics%20Job%20Sim%20Task%202%20-%20Experimenting%20and%20Uplift%20Testing.ipynb) |
+| 📓 Python Jupyter Notebook | [**Open in nbviewer →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Task%202%20_%20Experimenting%20and%20Uplift%20Testing/Forage%20Quantium%20Data%20Analytics%20Job%20Sim%20Task%202%20-%20Experimenting%20and%20Uplift%20Testing.ipynb) |
 
 <br/>
 
@@ -113,7 +113,7 @@ Synthesized insights from Tasks 1 & 2 into a polished **executive presentation**
 
 | Deliverable | Link |
 |---|---|
-| 📊 PowerPoint Presentation | [**View Slides →**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAcelake123%2FForage_Quantium_Data_Analytics%2Fmain%2FTask%25203%2520%253A%2520Analytics%2520and%2520Commercial%2520Application%2FTask%25203%2520-%2520Presentation%2520Analytics%2520and%2520Commercial%2520Application.pptx&wdOrigin=BROWSELINK) |
+| 📊 PowerPoint Presentation | [**View Slides →**](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Task%203%20_%20Analytics%20and%20Commercial%20Application/Task%203%20-%20Presentation%20Analytics%20and%20Commercial%20Application.pdf) |
 
 <br/>
 
@@ -139,7 +139,7 @@ Successfully completed all three tasks and earned the official **Quantium Data A
 
 <div align="center">
 
-[![Certificate](https://img.shields.io/badge/🏆%20View%20Certificate-Quantium%20×%20Forage-FF6B35?style=for-the-badge)](https://github.com/Acelake123/Forage_Quantium_Data_Analytics/blob/c87c324db1f3d56f630d5671b2c67676820bd1b6/NkaC7knWtjSbi6aYv_Quantium_xHj9pxotQTSvEtW8B_1705818950042_completion_certificate.pdf)
+[![Certificate](https://img.shields.io/badge/🏆%20View%20Certificate-Quantium%20×%20Forage-FF6B35?style=for-the-badge)](https://github.com/Acelake123/Forage_Quantium_Data_Analytics-main/blob/c566110da3920058f644938f698da2c79f91b19a/Quantium_completion_certificate.pdf)
 
 </div>
 
